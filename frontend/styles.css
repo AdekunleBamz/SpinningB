@@ -661,3 +661,7 @@ body {
 .game-stats {
   gap: 16px;
 }
+
+.spin-grid {
+  gap: 12px;
+}
