@@ -434,3 +434,9 @@ body {
   pointer-events: none;
   z-index: -1;
 }
+
+/* Wave border effect */
+.header {
+  border-bottom: 2px solid transparent;
+  border-image: linear-gradient(90deg, transparent, #0077be, #20b2aa, #0077be, transparent) 1;
+}
