@@ -541,3 +541,7 @@ body {
   background: rgba(13, 33, 55, 0.7);
   border: 1px solid #1a4a6e;
 }
+
+#userAddress {
+  color: #40e0d0;
+}
