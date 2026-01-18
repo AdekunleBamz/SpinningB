@@ -648,3 +648,8 @@ body {
 .tx-history h3 {
   color: #7db8d9;
 }
+
+.footer {
+  margin-top: 20px;
+  padding-top: 24px;
+}
