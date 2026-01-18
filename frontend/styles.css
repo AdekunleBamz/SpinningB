@@ -580,3 +580,9 @@ body {
 ::-webkit-scrollbar-thumb:hover {
   background: #0077be;
 }
+
+/* Text selection */
+::selection {
+  background: rgba(0, 119, 190, 0.4);
+  color: #e0f4ff;
+}
