@@ -453,3 +453,8 @@ body {
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
 }
+
+.stat-card {
+  background: rgba(13, 33, 55, 0.75);
+  backdrop-filter: blur(6px);
+}
