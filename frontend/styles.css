@@ -112,7 +112,7 @@ body {
 
 .btn-play:hover:not(:disabled) {
   transform: translateY(-2px);
-  box-shadow: 0 10px 40px rgba(99, 102, 241, 0.3);
+  box-shadow: 0 10px 40px rgba(0, 119, 190, 0.4);
 }
 
 .btn-play:disabled {
@@ -372,6 +372,7 @@ body {
     font-size: 1rem;
   }
 }
+
 
 
 
