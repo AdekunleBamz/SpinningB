@@ -549,3 +549,7 @@ body {
 .fee-note {
   color: #7db8d9;
 }
+
+.loading::after {
+  border-top-color: #20b2aa;
+}
