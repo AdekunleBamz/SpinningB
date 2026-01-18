@@ -458,3 +458,8 @@ body {
   background: rgba(13, 33, 55, 0.75);
   backdrop-filter: blur(6px);
 }
+
+.footer {
+  border-top: 2px solid transparent;
+  border-image: linear-gradient(90deg, transparent, #20b2aa, #0077be, #20b2aa, transparent) 1;
+}
