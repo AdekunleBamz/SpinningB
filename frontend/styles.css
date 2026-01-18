@@ -615,3 +615,7 @@ body {
 .stat-card:hover {
   box-shadow: 0 5px 25px rgba(0, 119, 190, 0.3);
 }
+
+.game-section {
+  box-shadow: 0 0 30px rgba(0, 119, 190, 0.1);
+}
