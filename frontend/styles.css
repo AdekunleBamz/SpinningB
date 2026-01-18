@@ -559,3 +559,9 @@ body {
   border-color: #40e0d0;
   color: #40e0d0;
 }
+
+.status-message.info {
+  background: rgba(0, 119, 190, 0.15);
+  border-color: #0077be;
+  color: #00a5cf;
+}
