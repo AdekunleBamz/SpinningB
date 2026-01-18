@@ -274,7 +274,7 @@ body {
 }
 
 .status-message.error {
-  background: rgba(239, 68, 68, 0.1);
+  background: rgba(220, 53, 69, 0.12);
   border: 1px solid var(--error);
   color: var(--error);
 }
@@ -372,6 +372,7 @@ body {
     font-size: 1rem;
   }
 }
+
 
 
 
