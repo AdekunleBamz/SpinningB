@@ -553,3 +553,9 @@ body {
 .loading::after {
   border-top-color: #20b2aa;
 }
+
+.status-message.success {
+  background: rgba(64, 224, 208, 0.15);
+  border-color: #40e0d0;
+  color: #40e0d0;
+}
