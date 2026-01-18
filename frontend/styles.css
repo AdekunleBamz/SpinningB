@@ -689,3 +689,7 @@ body {
 .tx-history {
   border-radius: 16px;
 }
+
+.status-message {
+  border-radius: 16px;
+}
