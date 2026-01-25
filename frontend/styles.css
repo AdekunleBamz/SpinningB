@@ -726,3 +726,13 @@ body {
     #5c0000 10px
   );
 }
+
+.stripe-accent {
+  background: repeating-linear-gradient(
+    -45deg,
+    transparent,
+    transparent 5px,
+    rgba(212, 175, 55, 0.1) 5px,
+    rgba(212, 175, 55, 0.1) 10px
+  );
+}
