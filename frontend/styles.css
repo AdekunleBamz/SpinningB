@@ -741,3 +741,7 @@ body {
   border: 2px solid #d4af37;
   box-shadow: 0 0 10px rgba(212, 175, 55, 0.3);
 }
+
+.maroon-glow {
+  box-shadow: 0 0 20px rgba(128, 0, 0, 0.5);
+}
