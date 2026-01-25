@@ -705,3 +705,14 @@ body {
   border-radius: 16px;
 }
 
+
+/* Maroon Stripe Pattern */
+.stripe-bg {
+  background: repeating-linear-gradient(
+    45deg,
+    #1a0505,
+    #1a0505 10px,
+    #2a0f0f 10px,
+    #2a0f0f 20px
+  );
+}
