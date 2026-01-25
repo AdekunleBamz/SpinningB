@@ -113,7 +113,7 @@ body {
   width: 100%;
   padding: 16px;
   font-size: 1.125rem;
-  background: linear-gradient(135deg, #0077be, #00a5cf);
+  background: linear-gradient(135deg, #800000, #a52a2a);
   color: white;
   margin-top: 20px;
 }
@@ -472,7 +472,7 @@ body {
 }
 
 .btn-primary {
-  background: linear-gradient(90deg, #0077be, #00a5cf, #0077be);
+  background: linear-gradient(90deg, #800000, #a52a2a, #0077be);
   background-size: 200% 100%;
 }
 
@@ -487,13 +487,13 @@ body {
 }
 
 .spin-btn.selected {
-  background: linear-gradient(145deg, #0077be, #00a5cf);
+  background: linear-gradient(145deg, #800000, #a52a2a);
   border-color: #20b2aa;
   box-shadow: 0 0 25px rgba(0, 119, 190, 0.7);
 }
 
 .btn-play {
-  background: linear-gradient(135deg, #0077be, #00a5cf, #20b2aa);
+  background: linear-gradient(135deg, #800000, #a52a2a, #20b2aa);
   background-size: 200% 200%;
   animation: shimmer 3s ease-in-out infinite;
 }
