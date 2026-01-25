@@ -716,3 +716,13 @@ body {
     #2a0f0f 20px
   );
 }
+
+.stripe-header {
+  background: repeating-linear-gradient(
+    90deg,
+    #800000,
+    #800000 5px,
+    #5c0000 5px,
+    #5c0000 10px
+  );
+}
