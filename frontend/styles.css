@@ -445,7 +445,7 @@ body {
 /* Wave border effect */
 .header {
   border-bottom: 2px solid transparent;
-  border-image: linear-gradient(90deg, transparent, #800000, #d4af37, #0077be, transparent) 1;
+  border-image: linear-gradient(90deg, transparent, #800000, #d4af37, #800000, transparent) 1;
 }
 
 /* Glassmorphism sea effect */
@@ -472,7 +472,7 @@ body {
 }
 
 .btn-primary {
-  background: linear-gradient(90deg, #800000, #a52a2a, #0077be);
+  background: linear-gradient(90deg, #800000, #a52a2a, #800000);
   background-size: 200% 100%;
 }
 
@@ -569,7 +569,7 @@ body {
 
 .status-message.info {
   background: rgba(128, 0, 0, 0.15);
-  border-color: #0077be;
+  border-color: #800000;
   color: #00a5cf;
 }
 
@@ -585,7 +585,7 @@ body {
   border-radius: 4px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #0077be;
+  background: #800000;
 }
 
 /* Text selection */
