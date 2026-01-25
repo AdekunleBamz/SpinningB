@@ -258,7 +258,7 @@ body {
   border-color: var(--primary);
   color: white;
   transform: scale(1.1);
-  box-shadow: 0 0 20px rgba(0, 119, 190, 0.6);
+  box-shadow: 0 0 20px rgba(128, 0, 0, 0.6);
 }
 
 .fee-note {
