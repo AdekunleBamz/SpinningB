@@ -478,7 +478,7 @@ body {
 
 .spin-btn {
   background: linear-gradient(145deg, #0d2137, #153550);
-  border: 2px solid #1a4a6e;
+  border: 2px solid #4a1a1a;
 }
 
 .spin-btn:hover {
@@ -500,7 +500,7 @@ body {
 
 .tx-history {
   background: rgba(13, 33, 55, 0.6);
-  border: 1px solid #1a4a6e;
+  border: 1px solid #4a1a1a;
 }
 
 .tx-link {
@@ -523,7 +523,7 @@ body {
 }
 
 .rules-card li {
-  border-bottom-color: #1a4a6e;
+  border-bottom-color: #4a1a1a;
 }
 .rules-card strong {
   color: #d4af37;
@@ -546,7 +546,7 @@ body {
 
 .user-info {
   background: rgba(13, 33, 55, 0.7);
-  border: 1px solid #1a4a6e;
+  border: 1px solid #4a1a1a;
 }
 
 #userAddress {
@@ -581,7 +581,7 @@ body {
   background: #0a1929;
 }
 ::-webkit-scrollbar-thumb {
-  background: #1a4a6e;
+  background: #4a1a1a;
   border-radius: 4px;
 }
 ::-webkit-scrollbar-thumb:hover {
@@ -645,7 +645,7 @@ body {
 
 .btn-secondary {
   background: rgba(13, 33, 55, 0.8);
-  border-color: #1a4a6e;
+  border-color: #4a1a1a;
 }
 .btn-secondary:hover {
   background: rgba(21, 53, 80, 0.9);
