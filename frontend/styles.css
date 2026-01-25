@@ -121,7 +121,7 @@ body {
 .btn-play:hover:not(:disabled) {
   animation: wave 0.5s ease-in-out;
   transform: translateY(-2px);
-  box-shadow: 0 10px 40px rgba(0, 119, 190, 0.4);
+  box-shadow: 0 10px 40px rgba(128, 0, 0, 0.4);
 }
 
 .btn-play:disabled {
@@ -422,7 +422,7 @@ body {
 }
 
 @keyframes ripple {
-  0% { box-shadow: 0 0 0 0 rgba(0, 119, 190, 0.4); }
+  0% { box-shadow: 0 0 0 0 rgba(128, 0, 0, 0.4); }
   100% { box-shadow: 0 0 0 20px rgba(0, 119, 190, 0); }
 }
 
@@ -590,7 +590,7 @@ body {
 
 /* Text selection */
 ::selection {
-  background: rgba(0, 119, 190, 0.4);
+  background: rgba(128, 0, 0, 0.4);
   color: #e0f4ff;
 }
 
