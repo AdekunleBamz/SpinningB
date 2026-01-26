@@ -70,14 +70,14 @@ const appKit = createAppKit({
   projectId: REOWN_PROJECT_ID,
   networks: [stacksMainnet],
   metadata: {
-    name: "Spinning Board Game",
-    description: "A decentralized spinning board game on Stacks",
+    name: "SpinningB - Maroon Stripe",
+    description: "Maroon Stripe Edition - Spin to Win on Stacks",
     url: window.location.origin,
     icons: ["https://stacks.co/favicon.ico"],
   },
   themeMode: "dark",
   themeVariables: {
-    "--w3m-accent": "#6366f1",
+    "--w3m-accent": "#800000",
     "--w3m-border-radius-master": "12px",
   },
 });
@@ -156,7 +156,7 @@ function onWalletConnected(address) {
     // Prompt Stacks wallet connection for transaction signing
     showConnect({
       appDetails: {
-        name: "Spinning Board Game",
+        name: "SpinningB - Maroon Stripe",
         icon: "https://stacks.co/favicon.ico",
       },
       onFinish: () => {
