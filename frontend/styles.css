@@ -1106,3 +1106,17 @@ body::after {
 .btn-primary:hover {
   animation: shimmer 2s ease-in-out infinite;
 }
+
+/* Secondary Button Stripe Border */
+.btn-secondary {
+  border: 2px solid transparent;
+  background: 
+    linear-gradient(#2a0f0f, #2a0f0f) padding-box,
+    repeating-linear-gradient(
+      90deg,
+      #800000,
+      #800000 4px,
+      #d4af37 4px,
+      #d4af37 8px
+    ) border-box;
+}
