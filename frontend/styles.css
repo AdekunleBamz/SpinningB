@@ -1443,3 +1443,15 @@ a:hover {
     #c9a227 10px
   );
 }
+
+.maroon-gold-mixed {
+  background: repeating-linear-gradient(
+    45deg,
+    #800000,
+    #800000 10px,
+    #d4af37 10px,
+    #d4af37 12px,
+    #5c0000 12px,
+    #5c0000 22px
+  );
+}
