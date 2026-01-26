@@ -1422,3 +1422,14 @@ a {
 a:hover {
   color: #e6c75a;
 }
+
+/* Stripe Pattern Utility Classes */
+.maroon-stripe-diagonal {
+  background: repeating-linear-gradient(
+    45deg,
+    #800000,
+    #800000 5px,
+    #5c0000 5px,
+    #5c0000 10px
+  );
+}
