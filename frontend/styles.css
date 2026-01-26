@@ -1548,3 +1548,14 @@ a:hover {
     background: white;
   }
 }
+
+/* Landscape orientation adjustments */
+@media (orientation: landscape) and (max-height: 500px) {
+  .container {
+    padding: 10px;
+  }
+  
+  .game-stats {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
