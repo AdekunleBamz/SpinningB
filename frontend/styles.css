@@ -1176,3 +1176,8 @@ body::after {
     transform: scale(1.02);
   }
 }
+
+/* Apply pulse to selected spin button */
+.spin-btn.selected {
+  animation: stripePulse 1.5s ease-in-out infinite;
+}
