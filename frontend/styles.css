@@ -1278,3 +1278,11 @@ body::after {
 .stat-card:hover::after {
   opacity: 1;
 }
+
+/* Enhanced Focus Ring Stripe */
+.spin-btn:focus {
+  outline: none;
+  box-shadow: 
+    0 0 0 3px #1a0505,
+    0 0 0 5px #d4af37;
+}
