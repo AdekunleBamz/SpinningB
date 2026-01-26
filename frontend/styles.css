@@ -1286,3 +1286,12 @@ body::after {
     0 0 0 3px #1a0505,
     0 0 0 5px #d4af37;
 }
+
+/* Play Button Focus State */
+.btn-play:focus {
+  outline: none;
+  box-shadow: 
+    0 0 0 3px #1a0505,
+    0 0 0 6px #800000,
+    0 10px 40px rgba(128, 0, 0, 0.4);
+}
