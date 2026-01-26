@@ -1074,3 +1074,18 @@ body::after {
   color: #800000;
   margin-right: 4px;
 }
+
+/* H2 Stripe Decoration */
+.game-section h2::before,
+.rules-card h2::before {
+  content: "║";
+  color: #d4af37;
+  margin-right: 8px;
+}
+
+.game-section h2::after,
+.rules-card h2::after {
+  content: "║";
+  color: #d4af37;
+  margin-left: 8px;
+}
