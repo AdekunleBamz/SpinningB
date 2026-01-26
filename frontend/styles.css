@@ -1393,3 +1393,12 @@ body::after {
 .user-info:hover::before {
   animation: borderStripe 1s linear infinite;
 }
+
+/* Maroon Gradient Radial Background */
+.container {
+  background: radial-gradient(
+    ellipse at 50% 0%,
+    rgba(128, 0, 0, 0.1) 0%,
+    transparent 50%
+  );
+}
