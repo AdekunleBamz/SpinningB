@@ -1221,3 +1221,20 @@ body::after {
   );
   opacity: 0.3;
 }
+
+/* Rules Card Corner Decoration */
+.rules-card::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 30px;
+  height: 30px;
+  background: linear-gradient(
+    -45deg,
+    #800000 0%,
+    #800000 50%,
+    transparent 50%
+  );
+  opacity: 0.4;
+}
