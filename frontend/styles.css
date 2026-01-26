@@ -1402,3 +1402,12 @@ body::after {
     transparent 50%
   );
 }
+
+/* Bottom Gold Glow */
+.container::after {
+  background: radial-gradient(
+    ellipse at 50% 100%,
+    rgba(212, 175, 55, 0.08) 0%,
+    transparent 40%
+  );
+}
