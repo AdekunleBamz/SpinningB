@@ -837,3 +837,25 @@ body::before {
   position: relative;
   overflow: hidden;
 }
+
+/* Game Section Stripe Bottom */
+.game-section::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: repeating-linear-gradient(
+    90deg,
+    #d4af37,
+    #d4af37 6px,
+    #c9a227 6px,
+    #c9a227 12px
+  );
+}
+
+.game-section {
+  position: relative;
+  overflow: hidden;
+}
