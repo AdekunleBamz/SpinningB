@@ -999,3 +999,18 @@ body::after {
   pointer-events: none;
   z-index: -1;
 }
+
+/* Logo Stripe Underline */
+.logo h1::after {
+  content: "";
+  display: block;
+  height: 2px;
+  margin-top: 4px;
+  background: repeating-linear-gradient(
+    90deg,
+    #800000,
+    #800000 4px,
+    #d4af37 4px,
+    #d4af37 8px
+  );
+}
