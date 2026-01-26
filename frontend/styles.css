@@ -1238,3 +1238,20 @@ body::after {
   );
   opacity: 0.4;
 }
+
+/* Gradient Stripe Divider */
+.game-stats::after {
+  content: "";
+  display: block;
+  grid-column: 1 / -1;
+  height: 2px;
+  margin-top: 8px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    #800000 20%,
+    #d4af37 50%,
+    #800000 80%,
+    transparent
+  );
+}
