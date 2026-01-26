@@ -1204,3 +1204,20 @@ body::after {
   background-size: 200% 200%;
   animation: stripeMove 1s linear infinite;
 }
+
+/* Card Corner Stripe Decoration */
+.game-section::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 40px;
+  height: 40px;
+  background: linear-gradient(
+    135deg,
+    #d4af37 0%,
+    #d4af37 50%,
+    transparent 50%
+  );
+  opacity: 0.3;
+}
