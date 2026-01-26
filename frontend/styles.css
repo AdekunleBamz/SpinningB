@@ -1157,3 +1157,10 @@ body::after {
   content: "⬥ ";
   color: #800000;
 }
+
+/* Spin Button Hover Stripe Glow */
+.spin-btn:hover {
+  box-shadow: 
+    0 0 10px rgba(128, 0, 0, 0.5),
+    0 0 20px rgba(212, 175, 55, 0.3);
+}
