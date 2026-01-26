@@ -1521,3 +1521,16 @@ a:hover {
     transition-duration: 0.01ms !important;
   }
 }
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+  :root {
+    --primary: #990000;
+    --accent: #ffd700;
+    --border: #800000;
+  }
+  
+  .spin-btn {
+    border-width: 3px;
+  }
+}
