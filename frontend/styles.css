@@ -1411,3 +1411,14 @@ body::after {
     transparent 40%
   );
 }
+
+/* Enhanced Link Colors */
+a {
+  color: #d4af37;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #e6c75a;
+}
