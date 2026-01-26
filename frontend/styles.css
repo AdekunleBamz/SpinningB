@@ -1345,3 +1345,14 @@ body::after {
   border-radius: 20px 20px 0 0;
   background: rgba(26, 5, 5, 0.8);
 }
+
+/* Stripe Transition Effects */
+.stat-card,
+.rules-card,
+.game-section,
+.tx-history {
+  transition: 
+    transform 0.3s ease,
+    box-shadow 0.3s ease,
+    border-color 0.3s ease;
+}
