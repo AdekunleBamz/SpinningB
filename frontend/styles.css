@@ -1089,3 +1089,20 @@ body::after {
   color: #d4af37;
   margin-left: 8px;
 }
+
+/* Primary Button Stripe Gradient */
+.btn-primary {
+  background: linear-gradient(
+    135deg,
+    #800000 0%,
+    #a52a2a 25%,
+    #800000 50%,
+    #a52a2a 75%,
+    #800000 100%
+  );
+  background-size: 200% 200%;
+}
+
+.btn-primary:hover {
+  animation: shimmer 2s ease-in-out infinite;
+}
