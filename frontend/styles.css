@@ -951,3 +951,25 @@ body::before {
 .user-info {
   position: relative;
 }
+
+/* Status Message Stripe */
+.status-message::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: repeating-linear-gradient(
+    90deg,
+    currentColor,
+    currentColor 4px,
+    transparent 4px,
+    transparent 8px
+  );
+  opacity: 0.5;
+}
+
+.status-message {
+  position: relative;
+}
