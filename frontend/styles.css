@@ -764,3 +764,20 @@ body::before {
   pointer-events: none;
   z-index: -1;
 }
+
+/* Enhanced Maroon Stripe Header */
+.header::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: repeating-linear-gradient(
+    90deg,
+    #800000,
+    #800000 8px,
+    #d4af37 8px,
+    #d4af37 16px
+  );
+}
