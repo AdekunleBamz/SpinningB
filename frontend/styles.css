@@ -798,3 +798,20 @@ body::before {
     #800000 16px
   );
 }
+
+/* Stat Card Stripe Accent */
+.stat-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 100%;
+  background: linear-gradient(180deg, #800000, #d4af37, #800000);
+  border-radius: 4px 0 0 4px;
+}
+
+.stat-card {
+  position: relative;
+  overflow: hidden;
+}
