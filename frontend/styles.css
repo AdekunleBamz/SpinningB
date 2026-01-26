@@ -1632,3 +1632,8 @@ a:hover {
     padding-bottom: max(40px, env(safe-area-inset-bottom));
   }
 }
+
+/* Smooth scroll behavior */
+html {
+  scroll-behavior: smooth;
+}
