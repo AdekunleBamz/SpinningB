@@ -1014,3 +1014,16 @@ body::after {
     #d4af37 8px
   );
 }
+
+/* Spin Grid Stripe Background */
+.spin-grid {
+  background: repeating-linear-gradient(
+    135deg,
+    transparent,
+    transparent 20px,
+    rgba(128, 0, 0, 0.05) 20px,
+    rgba(128, 0, 0, 0.05) 40px
+  );
+  padding: 16px;
+  border-radius: 12px;
+}
