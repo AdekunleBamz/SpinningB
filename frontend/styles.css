@@ -1498,3 +1498,15 @@ a:hover {
 .spin-btn.selected {
   animation: glowBorder 2s ease-in-out infinite, stripePulse 1.5s ease-in-out infinite;
 }
+
+/* Responsive Stripe Adjustments */
+@media (max-width: 480px) {
+  .header::before,
+  .footer::before {
+    height: 3px;
+  }
+  
+  .stat-card::before {
+    width: 3px;
+  }
+}
