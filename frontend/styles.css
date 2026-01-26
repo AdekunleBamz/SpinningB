@@ -1333,3 +1333,8 @@ body::after {
   );
   color: #666;
 }
+
+/* Enhanced Border Radius for Stripe Theme */
+.header {
+  border-radius: 0 0 20px 20px;
+}
