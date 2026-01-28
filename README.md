@@ -60,33 +60,28 @@ git clone https://github.com/phessophissy/SpinningB.git
 cd SpinningB
 ```
 
-### 2. Get REOWN Project ID
-
-1. Go to https://cloud.reown.com
-2. Create a new project
-3. Copy your Project ID
-4. Update `frontend/app.js`:
-   ```javascript
-   const REOWN_PROJECT_ID = "your-project-id-here";
-   ```
-
-### 3. Install Dependencies
+### 2. Install Dependencies
 
 ```bash
 npm install
 ```
 
-### 4. Run Frontend Locally
+### 3. Run Development Server
 
 ```bash
-# Using Python
-cd frontend && python3 -m http.server 8080
-
-# Or using Node.js
-npx http-server frontend -p 8080
+# Start Vite development server
+npm run dev
 ```
 
-Then open http://localhost:8080
+Then open http://localhost:5173
+
+### 4. Build for Production
+
+```bash
+npm run build
+```
+
+The production build will be output to the `dist/` folder.
 
 ## 🧪 Testnet Deployment
 
