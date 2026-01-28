@@ -266,4 +266,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Built with 💙 on [Stacks](https://www.stacks.co/) | 🌊 Blue Sea Edition
+Built with 🔩 on [Stacks](https://www.stacks.co/) | ⚙️ Chrome Steel Edition
