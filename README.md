@@ -6,9 +6,9 @@
 
 A decentralized spinning board game on the Stacks blockchain (Bitcoin L2).
 
-![Ocean Spin Game Screenshot](https://via.placeholder.com/800x400/0a1929/20b2aa?text=🎰+Ocean+Spin+Game+Interface)
+![Chrome Steel Game Screenshot](https://via.placeholder.com/800x400/0d0d1a/c0c0c0?text=🎰+Chrome+Steel+Game+Interface)
 
-> **🌊 Live Demo:** [spinning-board.vercel.app](https://spinning-board.vercel.app/)
+> **⚙️ Live Demo:** [spinning-board.vercel.app](https://spinning-board.vercel.app/)
 
 ## 🎮 Game Rules
 
