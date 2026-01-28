@@ -36,8 +36,9 @@ SpinningB/
 │   └── spinning-board.clar    # Clarity smart contract
 ├── frontend/
 │   ├── index.html             # Main HTML file
-│   ├── styles.css             # Ocean theme styles
-│   └── app.js                 # Frontend (REOWN AppKit + Stacks Connect)
+│   ├── styles.css             # Metallic chrome theme styles
+│   └── app.js                 # Frontend (@stacks/connect + @stacks/transactions)
+├── vite.config.js             # Vite bundler configuration
 ├── package.json
 ├── vercel.json                # Vercel deployment config
 ├── CONTRIBUTING.md            # Contribution guidelines
