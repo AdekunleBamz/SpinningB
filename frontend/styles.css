@@ -1,8 +1,8 @@
 /*
  * ===========================================
- * MAROON STRIPE THEME - Crimson Spin Edition
- * A bold maroon stripe theme with elegant
- * gold accents and classic stripes
+ * METALLIC CHROME THEME - Steel Edition
+ * A sleek metallic theme with chrome gradients,
+ * brushed steel textures, and silver accents
  * ===========================================
  */
 /* Reset & Base */
@@ -13,18 +13,32 @@
 }
 
 :root {
-  --primary: #800000;
-  --primary-hover: #5c0000;
-  --secondary: #1a0a0a;
-  --accent: #d4af37;
-  --success: #c9a227;
-  --error: #ef4444;
-  --bg: #1a0505;
-  --bg-card: #2a0f0f;
-  --bg-card-hover: #3d1515;
-  --text: #fff5e6;
-  --text-muted: #c9a868;
-  --border: #4a1a1a;
+  /* Metallic Core Colors */
+  --primary: #708090;
+  --primary-hover: #5a6a7a;
+  --secondary: #1a1a2e;
+  --accent: #c0c0c0;
+  --accent-gold: #b8860b;
+  --success: #50c878;
+  --error: #dc3545;
+
+  /* Metallic Backgrounds */
+  --bg: #0d0d1a;
+  --bg-card: #1a1a2e;
+  --bg-card-hover: #252545;
+
+  /* Text Colors */
+  --text: #e8e8e8;
+  --text-muted: #a0a0b0;
+
+  /* Metallic Border */
+  --border: #3a3a5a;
+  --border-metallic: linear-gradient(135deg, #4a4a6a, #2a2a4a);
+
+  /* Chrome Highlights */
+  --chrome-light: #f0f0f5;
+  --chrome-mid: #b0b0c0;
+  --chrome-dark: #606080;
 }
 
 body {
