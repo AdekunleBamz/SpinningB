@@ -175,8 +175,11 @@ Examples:
 
 Use Clarinet to run contract tests:
 
+Use Clarinet to run contract tests:
+
 ```bash
-cd contracts
+npm test
+# or
 clarinet test
 ```
 
