@@ -4,3 +4,4 @@ This folder contains operational runbooks for Release Management workflows in Sp
 
 ## Topics
 - [Release Calendar](./01-release-calendar.md)
+- [Feature Freeze Rules](./02-feature-freeze-rules.md)
