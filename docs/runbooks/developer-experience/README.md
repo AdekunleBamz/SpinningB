@@ -4,3 +4,4 @@ This folder contains operational runbooks for Developer Experience workflows in 
 
 ## Topics
 - [Branch Strategy](./01-branch-strategy.md)
+- [Commit Conventions](./02-commit-conventions.md)
