@@ -4,3 +4,4 @@ This folder contains operational runbooks for Governance And Roadmap workflows i
 
 ## Topics
 - [Roadmap Planning](./01-roadmap-planning.md)
+- [Prioritization Framework](./02-prioritization-framework.md)
