@@ -6,3 +6,4 @@ This folder contains operational runbooks for Ci Cd workflows in SpinningB.
 - [Github Actions Overview](./01-github-actions-overview.md)
 - [Build Pipeline Checklist](./02-build-pipeline-checklist.md)
 - [Test Pipeline Checklist](./03-test-pipeline-checklist.md)
+- [Dependency Update Flow](./04-dependency-update-flow.md)
