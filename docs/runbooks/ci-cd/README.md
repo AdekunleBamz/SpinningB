@@ -12,3 +12,4 @@ This folder contains operational runbooks for Ci Cd workflows in SpinningB.
 - [Hotfix Pr Process](./07-hotfix-pr-process.md)
 - [Workflow Failure Triage](./08-workflow-failure-triage.md)
 - [Artifact Verification](./09-artifact-verification.md)
+- [Deployment Smoke Tests](./10-deployment-smoke-tests.md)
