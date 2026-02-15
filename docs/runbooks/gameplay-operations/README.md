@@ -11,3 +11,4 @@ This folder contains operational runbooks for Gameplay Operations workflows in S
 - [Payout Audit](./06-payout-audit.md)
 - [Round Reset Verification](./07-round-reset-verification.md)
 - [Explorer Verification](./08-explorer-verification.md)
+- [Support Triage](./09-support-triage.md)
