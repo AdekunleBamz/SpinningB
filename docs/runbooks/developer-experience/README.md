@@ -10,3 +10,4 @@ This folder contains operational runbooks for Developer Experience workflows in 
 - [Test Data Strategy](./05-test-data-strategy.md)
 - [Scripts Maintenance](./06-scripts-maintenance.md)
 - [Style Guide Enforcement](./07-style-guide-enforcement.md)
+- [Onboarding Setup](./08-onboarding-setup.md)
