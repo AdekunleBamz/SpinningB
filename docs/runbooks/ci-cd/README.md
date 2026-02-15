@@ -8,3 +8,4 @@ This folder contains operational runbooks for Ci Cd workflows in SpinningB.
 - [Test Pipeline Checklist](./03-test-pipeline-checklist.md)
 - [Dependency Update Flow](./04-dependency-update-flow.md)
 - [Release Tag Process](./05-release-tag-process.md)
+- [Rollback Process](./06-rollback-process.md)
