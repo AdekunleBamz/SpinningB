@@ -6,3 +6,4 @@ This folder contains operational runbooks for Observability workflows in Spinnin
 - [Key Metrics Definition](./01-key-metrics-definition.md)
 - [Explorer Metrics Collection](./02-explorer-metrics-collection.md)
 - [Frontend Console Signal](./03-frontend-console-signal.md)
+- [Tx Success Tracking](./04-tx-success-tracking.md)
