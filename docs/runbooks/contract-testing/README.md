@@ -8,3 +8,4 @@ This folder contains operational runbooks for Contract Testing workflows in Spin
 - [Failure Path Tests](./03-failure-path-tests.md)
 - [Payout Scenario Tests](./04-payout-scenario-tests.md)
 - [Winner Edge Cases](./05-winner-edge-cases.md)
+- [Regression Test Checklist](./06-regression-test-checklist.md)
