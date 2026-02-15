@@ -8,3 +8,4 @@ This folder contains operational runbooks for Governance And Roadmap workflows i
 - [Scope Control](./03-scope-control.md)
 - [Risk Register](./04-risk-register.md)
 - [Decision Log](./05-decision-log.md)
+- [Stakeholder Update Template](./06-stakeholder-update-template.md)
