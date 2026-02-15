@@ -12,3 +12,4 @@ This folder contains operational runbooks for Release Management workflows in Sp
 - [Post Release Monitoring](./07-post-release-monitoring.md)
 - [Rollback Decision Tree](./08-rollback-decision-tree.md)
 - [Communication Plan](./09-communication-plan.md)
+- [Versioning Policy](./10-versioning-policy.md)
