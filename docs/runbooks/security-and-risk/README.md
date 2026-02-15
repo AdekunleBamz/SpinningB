@@ -6,3 +6,4 @@ This folder contains operational runbooks for Security And Risk workflows in Spi
 - [Contract Threat Model](./01-contract-threat-model.md)
 - [Wallet Safety Checks](./02-wallet-safety-checks.md)
 - [Input Validation Audit](./03-input-validation-audit.md)
+- [Payout Risk Review](./04-payout-risk-review.md)
