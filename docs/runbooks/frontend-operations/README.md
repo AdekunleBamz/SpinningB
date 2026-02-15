@@ -8,3 +8,4 @@ This folder contains operational runbooks for Frontend Operations workflows in S
 - [Read Only Api Debug](./03-read-only-api-debug.md)
 - [Transaction Submit Debug](./04-transaction-submit-debug.md)
 - [Status Message Guidelines](./05-status-message-guidelines.md)
+- [Mobile Qa Script](./06-mobile-qa-script.md)
