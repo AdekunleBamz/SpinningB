@@ -10,3 +10,4 @@ This folder contains operational runbooks for Frontend Operations workflows in S
 - [Status Message Guidelines](./05-status-message-guidelines.md)
 - [Mobile Qa Script](./06-mobile-qa-script.md)
 - [Browser Compatibility Check](./07-browser-compatibility-check.md)
+- [Prod Build Verify](./08-prod-build-verify.md)
