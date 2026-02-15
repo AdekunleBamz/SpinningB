@@ -8,3 +8,4 @@ This folder contains operational runbooks for Developer Experience workflows in 
 - [Code Review Checklist](./03-code-review-checklist.md)
 - [Local Debugging Guide](./04-local-debugging-guide.md)
 - [Test Data Strategy](./05-test-data-strategy.md)
+- [Scripts Maintenance](./06-scripts-maintenance.md)
