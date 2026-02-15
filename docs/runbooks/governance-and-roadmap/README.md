@@ -12,3 +12,4 @@ This folder contains operational runbooks for Governance And Roadmap workflows i
 - [Milestone Definition](./07-milestone-definition.md)
 - [Objective Tracking](./08-objective-tracking.md)
 - [Quarterly Review](./09-quarterly-review.md)
+- [Governance Checklist](./10-governance-checklist.md)
