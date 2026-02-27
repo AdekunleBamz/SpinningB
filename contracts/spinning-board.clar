@@ -125,6 +125,10 @@
   ENTRY_FEE
 )
 
+;; Get contract owner (alias for get-game-creator)
+(define-read-only (get-contract-owner)
+  GAME_CREATOR)
+
 ;; Get player info at index for a round
 (define-read-only (get-round-player (round uint) (index uint))
   (map-get? round-players { round: round, index: index })
